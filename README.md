@@ -169,7 +169,7 @@ HTTP status validation
 
 [![Assista ao vídeo do Ajax Post](https://github.com/Thiago771414/imagensProjetos/blob/main/slices/mobile/ajaxPost.png)](https://youtu.be/xs9wMrp3gdw)
 
-### *Click on the image above to watch the demonstration.*
+*Click on the image above to watch the demonstration.*
 
 ---
 
